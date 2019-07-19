@@ -1,0 +1,12 @@
+body {
+  background-color: #fff;
+  font-family: Ruboto, sans-serif, serif;
+}
+body p {
+  position: relative;
+  font-size: 22px;
+}
+body #app h1 {
+  position: relative;
+  font-size: 80px;
+}
